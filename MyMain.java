@@ -1,6 +1,6 @@
 // Linear Prediction
 // INPUT FILE ./data/values.txt
-// Default Number of Tap Coefficients = 40
+// Default Number of Tap Coefficients = 400
 
 import java.io.*;
 import java.util.ArrayList;
