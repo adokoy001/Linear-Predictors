@@ -1,1 +1,6 @@
 # This programs for Linear Predictors
+Using LMS Algorithm.
+
+## Parameters
+mu : step size of LMS conversion.
+h[M] : M length inverse filter.
